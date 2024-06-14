@@ -7,7 +7,7 @@
 # Initialize
 rm(list = ls())
 
-setwd("C:/Users/ldann/Desktop/ECON 485/R")
+setwd("C:/Users/amrit/Desktop/ECON 485/R")
 
 # Packages ####
 library(cansim)       # Get data from StatsCan
