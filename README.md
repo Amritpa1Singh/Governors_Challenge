@@ -22,6 +22,10 @@ This script focuses on generating rotating quarterly forecasts. The main process
 - **Forecast Generation**: Produce forecasts for each quarter, rotating through the data to maintain up-to-date predictions.
 - **Model Evaluation**: Assess the performance of the forecasts using appropriate evaluation metrics.
 
+### [2024 Governor's Challenge Final Round.pdf](https://github.com/Amritpa1Singh/Governors_Challenge/blob/main/2024%Governor's%Challenge%Final%Round.pdf)
+
+This PowerPoint presentation provides an overview of the final round of the 2024 Governor's Challenge. It includes key insights, methodologies, and results of our forecasts.
+
 ## Usage
 
 1. **Clone the Repository**:
